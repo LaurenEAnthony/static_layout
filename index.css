@@ -1,0 +1,66 @@
+html{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.ribbon{
+    position: absolute;
+    top: 0;
+    margin: 0px 30px 0px 20px;
+    padding: 0px 5px 0px 5px;
+    width: 100vw;
+    height: 3vh;
+    background-color: transparent;
+}
+
+#logo{
+    color: red;
+    font-weight: 800;
+    font-size: 24pt;
+    position: relative;
+    top: 10px;
+}
+
+#sign-in{
+    float: right;
+    position: relative;
+    right: 3em;
+}
+
+#sign-in button{
+    color: white;
+    font-size: 12pt;
+    background-color: red;
+    width: 5em;
+    height: 2.1em;
+    border-style: hidden;
+    border-radius: 5%;
+    padding: 3px 10px 3px 10px;
+}
+
+h1{
+    font-size: 36pt;
+}
+
+h3{
+    font-size: 20pt;
+}
+
+.firstview{
+    background-image: url(../StaticLayout/Assets/US-en-20200302-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    width: 100%vw;
+    height: 102vh;
+    background-size: cover;
+    border-bottom: 8px solid dimgray;
+    margin: 0px;
+    padding: 5em;
+    text-align: center;
+}
+
+content1{
+    size: 50vw;
+    word-wrap: normal;
+    background-color: yellow;
+}
+
