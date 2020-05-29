@@ -64,3 +64,9 @@ content1{
     background-color: yellow;
 }
 
+#try-button button{
+    background-color: red;
+    color:  white;
+    
+}
+
